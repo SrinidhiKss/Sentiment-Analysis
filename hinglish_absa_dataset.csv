@@ -1,0 +1,21 @@
+ID,Review Text,Aspect Terms,Sentiment
+1,Yeh restaurant ka food bohot accha tha,food,Positive
+2,Service slow thi aur staff friendly nahi tha,"service, staff",Negative
+3,"Ambiance achhi thi, lekin seating uncomfortable thi","ambiance, seating","Positive, Negative"
+4,"Price affordable hai, quality bhi achhi hai","price, quality",Positive
+5,"Delivery late thi, lekin food fresh tha","delivery, food","Negative, Positive"
+6,Ambiance achhi hai aur staff cooperative hai,"ambiance, staff",Positive
+7,Food cold tha aur portion size chhoti thi,"food, portion size",Negative
+8,Wi-Fi available hai aur speed bhi achhi hai,"Wi-Fi, speed",Positive
+9,Customer service rude thi aur response slow tha,"customer service, response",Negative
+10,Room clean tha aur bed comfortable tha,"room, bed",Positive
+11,Menu variety limited thi aur prices high the,"menu, prices",Negative
+12,Parking kaafi spacious thi aur security bhi theek thi,"parking, security",Positive
+13,Drinks overpriced the aur quality bhi poor thi,"drinks, quality",Negative
+14,Lights dim thi aur music loud tha,"lights, music",Negative
+15,Reception staff polite tha aur check-in fast tha,"reception staff, check-in",Positive
+16,Location accessible thi aur surrounding peaceful tha,"location, surrounding",Positive
+17,Delivery timing irregular thi aur packaging average thi,"delivery timing, packaging",Negative
+18,Staff helpful tha aur seating comfortable thi,"staff, seating",Positive
+19,AC cooling low thi aur maintenance poor tha,"AC cooling, maintenance",Negative
+20,Food presentation impressive thi aur taste bhi shaandar tha,"food presentation, taste",Positive
