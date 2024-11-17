@@ -19,6 +19,6 @@ The proposed solution leverages **Evolutionary Algorithms (EAs)** to optimize fe
 ## **Team Members**
 
 - **Lavkesh Kumar**
-- **Srinidhi**
+- **Srinidhi Kukunuri**
 
 ---
